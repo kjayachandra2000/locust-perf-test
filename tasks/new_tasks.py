@@ -1,6 +1,4 @@
 from locust import SequentialTaskSet, between, task
-
-
 class MyNewTask(SequentialTaskSet):
     wait_time=between(1,5)
 
