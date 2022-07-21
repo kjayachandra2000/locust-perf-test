@@ -1,4 +1,3 @@
-from urllib import response
 from locust import SequentialTaskSet, between, task
 
 
