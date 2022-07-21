@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+
+# Distribution / packaging
+*.egg-info/
+
+# Pyenv 
+.python-version
+
+# Python Environments
+venv/
+
+# Pytest cach
+.pytest_cache
+
+# IDE settings
+.vscode
+.idea
+
+# VSC history extensions
+.history/
+
+# OS
+.DS_Store
+
+**.terraform/*
